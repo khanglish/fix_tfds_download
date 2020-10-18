@@ -33,14 +33,14 @@ import tensorflow_datasets.public_api as tfds
 IMG_ALIGNED_DATA = ("https://drive.google.com/uc?export=download&"
                     "id=1L4F44epUDEy1FvwzlPJmzp3eYl5gjTOO")
 EVAL_LIST = ("https://drive.google.com/uc?export=download&"
-             "id=0B7EVK8r0v71pY0NSMzRuSXJEVkk")
+             "id=1GnAaDMkglCOX3oM0N76SrWtIUPEGOGWR")
 # Landmark coordinates: left_eye, right_eye etc.
 LANDMARKS_DATA = ("https://drive.google.com/uc?export=download&"
-                  "id=0B7EVK8r0v71pd0FJY3Blby1HUTQ")
+                  "id=1zy_8y28j8iID9tS03552U6Irqf-9enlU")
 
 # Attributes in the image (Eyeglasses, Mustache etc).
 ATTR_DATA = ("https://drive.google.com/uc?export=download&"
-             "id=0B7EVK8r0v71pblRyaVFSWGxPY0U")
+             "id=1BPSSWE7q37O0SquGhwjoE9wJCLpfMqz3")
 
 LANDMARK_HEADINGS = ("lefteye_x lefteye_y righteye_x righteye_y "
                      "nose_x nose_y leftmouth_x leftmouth_y rightmouth_x "
